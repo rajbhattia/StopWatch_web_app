@@ -1,1 +1,18 @@
-# This Stop watch is develped by me by using htm, css and javascript under the guidance of sir zubair
+# This Stop watch is developed by me.
+
+Technology used:
+#HTML
+#CSS3
+#JavaSrcipt
+#GITHUB hosting
+#GIT
+
+
+Live site : https://rajbhattia.github.io/StopWatch_web_app/
+
+
+
+
+
+
+
