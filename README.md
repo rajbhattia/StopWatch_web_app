@@ -1,7 +1,7 @@
 # This Stop watch is developed by me.
 
 Technology used:
-#HTML
+#HTML5
 #CSS3
 #JavaSrcipt
 #GITHUB hosting
